@@ -1,10 +1,10 @@
-# Flickr APP
+# Flickr_Search APP
 
-### A Simple App to demonstrate paginated call using Android Paging Library 
+### A Simple App to demonstrate the Photo gallery based on Search functionality through Flickr Api
 
 
 This App follows MVVM architecture along with repository as an abstraction layer which interacts with  Network to fetch the data. 
-It uses Android paging library to perform endless scroll.
+It uses Android paging library to perform endless scroll. It uses Flickr api to fetch the images based on search functionality
 
 ## TechStack used in this app
 1. Retrofit and Okhttp  : For Networking
