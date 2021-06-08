@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Flickr</string>
+    <string name="app_name">Flickr_Search</string>
     <string name="search">Search for  <i>images</i>" </string>
     <string name="no_results">No results found</string>
     <string name="try_different">Try searching something different</string>

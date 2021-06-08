@@ -12,6 +12,9 @@ It uses Android paging library to perform endless scroll.
 3. Mockito : For Unit Testing of FlickrApi
 4. Dagger2 : For dependency injection
 5. Paging : For pagingination (i.e., PagedListAdapter for recyclerview and PageKeyedDataSource for network calls)
+6. Glide : For image Loading
+7. Coroutines : For asynchronous code
+8. LiveData : For updating app component observers that are in active lifecyclestate
 
 Every response from network  are wrapped in a single data type **DATA**, with **NetworkState** as a field which defines the state in which the call is.
 
