@@ -14,7 +14,7 @@ class SearchRemoteDataSource @Inject constructor(val service: FlickrApi) : BaseD
 
     init {
         map["method"] = "flickr.photos.search"
-        map["api_key"] = "3e7cc266ae2b0e0d78e279ce8e361736"
+        map["api_key"] = "1a013b668241fc992b74736e2e4ae9bc"
         map["format"] = "json"
 
     }
