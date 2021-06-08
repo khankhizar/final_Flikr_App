@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Flickr</string>
+    <string name="search">Search for  <i>images</i>" </string>
+    <string name="no_results">No results found</string>
+    <string name="try_different">Try searching something different</string>
+    <string name="error">Something went wrong!</string>
+    <string name="try_later">Please check your connection or try again later</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
